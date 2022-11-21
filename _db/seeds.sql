@@ -10,4 +10,3 @@ VALUES (1, "worked 38 hrs"),
        (2, "worked 39 hrs"),
        (3, "worked 40 hrs"),
        (4, "worked 41 hrs");
-       

@@ -33,5 +33,4 @@ TimeSheet.init(
     modelName: 'timeSheet',
   }
 );
-
 module.exports = TimeSheet;
